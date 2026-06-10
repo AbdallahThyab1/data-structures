@@ -31,7 +31,7 @@ data-structures-cpp/
 ├── Array/
 │ └── Array.cpp
 ├── ArrayList/
-│ └── ArrayList.cpp
+│ └── arraylist-based-array.cpp
 ├── LinkedList/
 │ └── LinkedList.cpp
 ├── DoublyLinkedList/
