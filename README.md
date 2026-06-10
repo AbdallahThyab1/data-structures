@@ -47,8 +47,6 @@ data-structures-cpp/
 ---
 
 
----
-
 ## 🔧 Operations Implemented
 
 ### Common Operations (All Structures)
