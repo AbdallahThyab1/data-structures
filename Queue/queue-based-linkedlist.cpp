@@ -9,7 +9,6 @@ private:
     {
         T data;
         Node* next;
-
         Node(T v)
         {
             data = v;
